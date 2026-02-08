@@ -1,0 +1,28 @@
+
+{
+    "appName": "Wrattel",
+    "home": "Home",
+    "teachers": "Teachers",
+    "bookings": "Bookings",
+    "sessions": "Sessions",
+    "followers": "Followers",
+    "profile": "Profile",
+    "nextSession": "Next Session",
+    "joinSession": "Join Session",
+    "statistics": "Statistics",
+    "featuredTeachers": "Featured Teachers",
+    "viewAll": "View All",
+    "packages": "Available Packages",
+    "subscribe": "Subscribe Now",
+    "sar": "SAR",
+    "welcome": "Welcome",
+    "settings": "Settings",
+    "language": "Language",
+    "logout": "Logout",
+    "editProfile": "Edit Profile",
+    "changePassword": "Change Password",
+    "notifications": "Notifications",
+    "schedule": "Schedule",
+    "quran": "My Quran",
+    "messages": "Messages"
+}
