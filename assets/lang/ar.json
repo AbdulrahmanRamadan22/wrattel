@@ -1,0 +1,28 @@
+
+{
+  "appName": "ورتل",
+  "home": "الرئيسية",
+  "teachers": "المعلمين",
+  "bookings": "الحجوزات",
+  "sessions": "الجلسات",
+  "followers": "التابعين",
+  "profile": "الملف الشخصي",
+  "nextSession": "الحصة القادمة",
+  "joinSession": "انضمام للحصة",
+  "statistics": "الإحصائيات",
+  "featuredTeachers": "المعلمين المميزين",
+  "viewAll": "عرض الكل",
+  "packages": "الباقات المتاحة",
+  "subscribe": "اشترك الآن",
+  "sar": "ر.س",
+  "welcome": "مرحباً",
+  "settings": "الإعدادات",
+  "language": "اللغة",
+  "logout": "تسجيل الخروج",
+  "editProfile": "تعديل الملف الشخصي",
+  "changePassword": "تغيير كلمة المرور",
+  "notifications": "الإشعارات",
+  "schedule": "جدولي",
+  "quran": "مصحفي",
+  "messages": "الرسائل"
+}
